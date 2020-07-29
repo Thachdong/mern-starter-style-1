@@ -1,0 +1,3 @@
+export const SET_USER_REQUEST = "SET_USER_REQUEST";
+export const SET_USER_SUCCESS = "SET_USER_SUCCESS";
+export const SET_USER_FAIL = "SET_USER_FAIL";
